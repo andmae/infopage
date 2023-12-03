@@ -40,7 +40,7 @@ h2 {
 }
 
 h3 {
-    font-size: 24px;
+    font-size: 32px;
     font-family: 'YourCustomFont', sans-serif;
     position: relative;
     padding: 0.5em;
@@ -62,7 +62,7 @@ p {
 
 header {
     text-align: center;
-    background-image: url('background.png');
+    background-image: url('img/background.png');
     background-size: cover; /* Adjust based on your image size */
     background-position: center center;
     color: #fff;
